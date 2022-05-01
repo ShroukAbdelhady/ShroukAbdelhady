@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shroukabdelhady&label=Profile%20views&color=0e75b6&style=flat" alt="shroukabdelhady" /> </p>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&vCenter=true&width=700&height=70&lines=Welcome+to+my+GitHub+Profile+)](https://git.io/typing-svg)
+
 - 🔭 I’m currently working on **my portfolio**
 
 - 🌱 I’m currently learning **Angular, Node and AWS**
